@@ -225,18 +225,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ```
 
----
-
-### How to Add this README to GitHub:
-
-1. **Create a Repository on GitHub**: Go to your GitHub account, create a new repository, and name it something like "Jetson-Nano-PaddleOCR-Tutorial".
-
-2. **Add the README**: 
-   - In your repository, click on **"Add file"** -> **"Create new file"**.
-   - Name the file `README.md`.
-   - Paste the entire content of the markdown code provided above.
-   - Click on **"Commit new file"** to save the README.
-
-3. **Push Code and Files**: If you have other scripts or project files, you can push them to the repository using Git.
-
-This should provide a clear and structured guide to users visiting your repository, making it easy for them to follow along with the PaddleOCR deployment on the Jetson Nano.
