@@ -113,7 +113,7 @@ source pdl_env/bin/activate
 
 ### 3. Install PaddlePaddle-GPU
 
-Download the appropriate `.whl` file for your Jetson Nano from the [PaddlePaddle Official Release Page](https://www.paddlepaddle.org.cn/install/quick).
+Download the appropriate `.whl` file for your Jetson Nano from the [PaddlePaddle Official Release Page](https://www.paddlepaddle.org.cn/inference/v2.5/guides/install/download_lib.html#python).
 
 Once downloaded, install it using `pip`:
 
